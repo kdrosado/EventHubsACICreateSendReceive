@@ -8,4 +8,4 @@ WORKDIR /usr/src/app
 
 RUN npm install
 
-CMD node /usr/src/app/.js
+CMD node /usr/src/app/send.js
